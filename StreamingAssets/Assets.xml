@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<Assets>
+
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Default</id>
+		<unlock>0</unlock>
+		<price>0</price>
+	</asset>
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Sniper_Rifle_1</id>
+		<unlock>20</unlock>
+		<price>900</price>
+	</asset>
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Sniper_Rifle_2</id>
+		<unlock>40</unlock>
+		<price>1300</price>
+	</asset>
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Sniper_Rifle_3</id>
+		<unlock>60</unlock>
+		<price>1700</price>
+	</asset>
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Sniper_Rifle_4</id>
+		<unlock>80</unlock>
+		<price>2100</price>
+	</asset>
+	<asset type="rifle">
+		<category>sniper</category>
+		<id>Sniper_Rifle_5</id>
+		<unlock>95</unlock>
+		<price>2500</price>
+	</asset>
+    <asset type="rifle">
+        <category>sniper</category>
+        <id>Sniper_Rifle_6</id>
+        <unlock>-1</unlock>
+        <price>-1</price>
+    </asset>
+
+	<asset type="rifle">
+		<category>pistol</category>
+		<id>Pistol_1</id>
+		<unlock>5</unlock>
+		<price>600</price>
+	</asset>
+	<asset type="rifle">
+		<category>pistol</category>
+		<id>Pistol_2</id>
+		<unlock>25</unlock>
+		<price>1000</price>
+	</asset>
+	<asset type="rifle">
+		<category>pistol</category>
+		<id>Pistol_3</id>
+		<unlock>45</unlock>
+		<price>1400</price>
+	</asset>
+	<asset type="rifle">
+		<category>pistol</category>
+		<id>Pistol_4</id>
+		<unlock>65</unlock>
+		<price>1800</price>
+	</asset>
+	<asset type="rifle">
+		<category>pistol</category>
+		<id>Pistol_5</id>
+		<unlock>85</unlock>
+		<price>2200</price>
+	</asset>
+
+	<asset type="rifle">
+		<category>rifle</category>
+		<id>Assault_Rifle_1</id>
+		<unlock>10</unlock>
+		<price>700</price>
+	</asset>
+	<asset type="rifle">
+		<category>rifle</category>
+		<id>Assault_Rifle_2</id>
+		<unlock>30</unlock>
+		<price>1100</price>
+	</asset>
+	<asset type="rifle">
+		<category>rifle</category>
+		<id>Assault_Rifle_3</id>
+		<unlock>50</unlock>
+		<price>1500</price>
+	</asset>
+	<asset type="rifle">
+		<category>rifle</category>
+		<id>Assault_Rifle_4</id>
+		<unlock>70</unlock>
+		<price>1900</price>
+	</asset>
+	<asset type="rifle">
+		<category>rifle</category>
+		<id>Assault_Rifle_5</id>
+		<unlock>90</unlock>
+		<price>2300</price>
+	</asset>
+
+	<asset type="rifle">
+		<category>shotgun</category>
+		<id>ShotGun_1</id>
+		<unlock>15</unlock>
+		<price>800</price>
+	</asset>
+	<asset type="rifle">
+		<category>shotgun</category>
+		<id>ShotGun_2</id>
+		<unlock>35</unlock>
+		<price>1200</price>
+	</asset>
+	<asset type="rifle">
+		<category>shotgun</category>
+		<id>ShotGun_3</id>
+		<unlock>55</unlock>
+		<price>1600</price>
+	</asset>
+	<asset type="rifle">
+		<category>shotgun</category>
+		<id>ShotGun_4</id>
+		<unlock>75</unlock>
+		<price>2000</price>
+	</asset>
+</Assets>
